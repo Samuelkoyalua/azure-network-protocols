@@ -36,6 +36,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/lxv12kO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+
+  <p>
+<img src="https://i.imgur.com/fgAHXtj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Let's start by setting up a resource group, which acts like a container for all our resources, making them easier to manage. Once that's in place, we'll create two virtual machines.
 
 The first virtual machine will run on Windows 10, providing a familiar environment for various tasks and applications. It's great for users who are comfortable with Windows and need its specific capabilities.
