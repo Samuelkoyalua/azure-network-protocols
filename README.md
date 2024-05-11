@@ -65,9 +65,14 @@ Once connected to VM1, we'll proceed with installing Wireshark. Wireshark is a p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BQ0T82k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Let's fire up Wireshark and initiate packet capturing by clicking on the shark icon. This action begins capturing live packets, allowing us to monitor network traffic in real-time. Next, we'll filter the captured packets to focus solely on ICMP (Internet Control Message Protocol) traffic. To do this, we'll simply type "icmp" into the filter bar and hit enter. This filters out all packets except those related to ICMP, which can be particularly useful for troubleshooting network connectivity and diagnosing issues.
+
+
+
+
+
 </p>
 <br />
