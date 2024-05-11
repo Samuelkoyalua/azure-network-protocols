@@ -74,5 +74,16 @@ Let's fire up Wireshark and initiate packet capturing by clicking on the shark i
 
 
 
+
+
+
+<p>
+<img src="https://i.imgur.com/a1RBAVI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Next open powershell and ping vm2's private ip address while on vm1
+
+
 </p>
 <br />
