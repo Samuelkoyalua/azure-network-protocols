@@ -36,8 +36,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/lxv12kO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Let's start by setting up a resource group, which acts like a container for all our resources, making them easier to manage. Once that's in place, we'll create two virtual machines.
+
+The first virtual machine will run on Windows 10, providing a familiar environment for various tasks and applications. It's great for users who are comfortable with Windows and need its specific capabilities.
+
+The second virtual machine will be based on Ubuntu Linux, known for its stability and versatility. It's a solid choice for a wide range of purposes, from development to running server applications.
+
+With these two virtual machines, we're covering different needs and preferences, ensuring flexibility and efficiency in our setup.</p>
 <br />
 
 <p>
