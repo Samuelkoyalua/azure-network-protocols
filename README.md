@@ -54,8 +54,14 @@ With these two virtual machines, we're covering different needs and preferences,
 <img src="https://i.imgur.com/xnSdxiK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+  <img src="https://i.imgur.com/vQqvM8o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+After setting up our virtual machines, the next step is to establish a remote desktop connection to VM1 using its public IP address. This allows us to access VM1's desktop environment from a remote location, giving us full control over its operations.
+
+Once connected to VM1, we'll proceed with installing Wireshark. Wireshark is a powerful network protocol analyzer that helps us inspect the data traffic on our network. By installing Wireshark on VM1, we gain the ability to monitor and analyze network activity directly from within the VM's environment.</p>
 <br />
 
 <p>
