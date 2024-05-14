@@ -98,3 +98,12 @@ Next open powershell and ping vm2's private ip address while on vm1
 </p>
 <p>
 
+
+
+Next We're going to block ping requests from reaching VM1 by configuring VM2's network security group to block ICMP traffic.
+
+
+
+
+
+
