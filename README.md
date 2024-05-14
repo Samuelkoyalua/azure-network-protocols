@@ -87,3 +87,14 @@ Next open powershell and ping vm2's private ip address while on vm1
 
 </p>
 <br />
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/uoNi0hy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
