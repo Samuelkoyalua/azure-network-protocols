@@ -106,3 +106,19 @@ Next We're going to block ping requests from reaching VM1 by configuring VM2's n
 
 
 
+
+<p>
+<img src="https://i.imgur.com/YbOeFx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+DHCP reassigns your IP address.
+
+
+
+
+
+
+
+
+
