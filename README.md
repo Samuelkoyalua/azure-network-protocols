@@ -120,5 +120,11 @@ DHCP reassigns your IP address.
 
 
 
+<p>
+<img src="https://i.imgur.com/bUhz7bb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
+
+Using Wireshark on the VM, filter for DNS traffic to capture both IPv4 and IPv6 addresses. Then, open the command prompt and type "nslookup" followed by "www.google.com" and "www.disney.com" to query their DNS records.
 
