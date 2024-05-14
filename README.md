@@ -128,3 +128,27 @@ DHCP reassigns your IP address.
 
 Using Wireshark on the VM, filter for DNS traffic to capture both IPv4 and IPv6 addresses. Then, open the command prompt and type "nslookup" followed by "www.google.com" and "www.disney.com" to query their DNS records.
 
+
+
+
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/SMB8UmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Finally, let's monitor RDP traffic. You can simply type "rdp" in Wireshark's filter bar, or alternatively, use "tcp.port==3389" to specifically capture traffic on the RDP port.
+
+
+
+
+
+
+
+
+
+
